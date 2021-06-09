@@ -1,6 +1,6 @@
 # Issues
 ### Any issues you may have with Cache such as a bug, error or you just need support.
-
+### Spam Issues will be ignored and removed
 
 # How to open an issue:
 
