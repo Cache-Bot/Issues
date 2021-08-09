@@ -20,13 +20,13 @@
 - [ ] This issue is something not mentioned here. I have described it.
 
 ## The issue is about
-<!-- Whats the issue's related to? Choose from:
+Whats the issue's related to? Choose from:
   - Support server
   - The bot itself
   - Documentation
   - Others (Please describe)
 
-Add text here after the arrow -->
+Add text here after the arrow
 
 
 
